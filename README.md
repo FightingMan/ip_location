@@ -6,7 +6,6 @@ hhvm-ext/ip_location
 hphpize
 
 install:
-
 cmake . && make
 
 test:
