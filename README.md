@@ -1,7 +1,7 @@
 ip_location
 ===========
 
-hhvm-ext/ip_location
+It's a hhvm extension that you give an ip which will return your address.
 
 compile:
 ```
