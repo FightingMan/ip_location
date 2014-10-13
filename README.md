@@ -1,7 +1,7 @@
 ip_location
 ===========
 
-It's a hhvm extension that you give an ip which will return your address.
+It's a hhvm extension that you give an ip which will return an array of address.
 
 compile:
 ```
