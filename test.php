@@ -9,8 +9,8 @@
  */
 $s = microtime(true);
 $a = ip_location("61.135.169.80");
-var_dump($a);
 $s1 = microtime(true);
 echo number_format($s1 - $s, 6) . "\n";
+var_dump($a);
 
 /* vim: set ts=4 sw=4 sts=4 tw=100 et: */
