@@ -16,6 +16,7 @@ hhvm -vDynamicExtensions.0=ip_location.so test.php
 
 output:
 ```
+0.000076
 array(5) {
   ["country"]=>
   string(2) "CN"
@@ -28,5 +29,4 @@ array(5) {
   ["isp"]=>
   string(6) "UNICOM"
 }
-0.005946
 ```
